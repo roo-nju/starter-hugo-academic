@@ -6,11 +6,11 @@ title: Wu Yongkun
 superuser: true
 
 # Role/position/tagline
-role: PhD Student of Electronic and Computer Engineering
+role: PhD Student in Electronic and Computer Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: The Hong Kong University of Science and Technology
+- name: The Hong Kong University of Science and Technology (HKUST)
   url: https://hkust.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,7 +70,7 @@ email: ""
 highlight_name: true
 ---
 
-I am an incoming PhD student of [HKUST Vision and System Design Lab](http://vsdl.ust.hk/index.html) led by [Prof. Tim CHENG](http://vsdl.ust.hk/index.html) at the Department of Electronic & Computer Engineering, HKUST. Previously, I obtained by Bachelor's Degree at the Department of Electronic Science and Engineering, Nanjing University, where I was advised by [Prof. Li DU](https://iscl.nju.edu.cn/main.psp) and Xiaoliang CHEN in [Lab of ICAIS](https://ese.nju.edu.cn/ICAIS/main.psp).
+I am an incoming PhD student of [HKUST Vision and System Design Lab (VSDL)](http://vsdl.ust.hk/index.html) led by [Prof. Tim CHENG](http://vsdl.ust.hk/index.html) at the Department of Electronic & Computer Engineering in HKUST, and a member of [AI Chip Center for Emerging Smart Systems (ACCESS)](https://inno-access.hk/). Previously, I obtained by Bachelor's Degree at the Department of Electronic Science and Engineering, Nanjing University, where I was advised by [Prof. Li DU](https://iscl.nju.edu.cn/main.psp) and Xiaoliang CHEN in [Intelligent Sensing and Communication Lab](https://iscl.nju.edu.cn/main.psp) affiliated to [Lab of Integrated Circuits and Intelligent Systems (ICAIS)](https://ese.nju.edu.cn/ICAIS/main.psp).
 
 
 
