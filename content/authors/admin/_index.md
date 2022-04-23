@@ -27,10 +27,10 @@ education:
   courses:
   - course: PhD in Electronic and Computer Engineering
     institution: HKUST
-    year: 2022-present
+    year: 2022 - present
   - course: BSc in Electronic Science and Engineering
     institution: Nanjing University
-    year: 2018-2022
+    year: 2018 - 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,7 +70,7 @@ email: ""
 highlight_name: true
 ---
 
-I am an incoming PhD student of [HKUST Vision and System Design Lab](http://vsdl.ust.hk/index.html) led by [Prof. Tim CHENG](http://vsdl.ust.hk/index.html) at the Department of Electronic & Computer Engineering, HKUST. Previously, I obtained by Bachelor's Degree at the Department of Electronic Science and Engineering, Nanjing University, where I was advised by [Prof. Li DU]([智能感知与通信实验室 (nju.edu.cn)](https://iscl.nju.edu.cn/main.psp)) and Xiaoliang CHEN in [Lab of ICAIS]([王中风课题组 (nju.edu.cn)](https://ese.nju.edu.cn/ICAIS/main.psp)).
+I am an incoming PhD student of [HKUST Vision and System Design Lab](http://vsdl.ust.hk/index.html) led by [Prof. Tim CHENG](http://vsdl.ust.hk/index.html) at the Department of Electronic & Computer Engineering, HKUST. Previously, I obtained by Bachelor's Degree at the Department of Electronic Science and Engineering, Nanjing University, where I was advised by [Prof. Li DU](https://iscl.nju.edu.cn/main.psp) and Xiaoliang CHEN in [Lab of ICAIS](https://ese.nju.edu.cn/ICAIS/main.psp).
 
 
 
