@@ -25,25 +25,27 @@ experience:
   - title: PhD Student
     company: HKUST
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: hkust
+    location: Clear Water Bay, Hong Kong
+    date_start: '2022-09-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: To be explored.
+
+#             |2-
+#        Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+#        * Analysing
+#        * Modelling
+#        * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Bachelor
+    company: Nanjing University
     company_url: ''
     company_logo: nju
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Xianlin, Nanjing
+    date_start: '2018-09-01'
+    date_end: '2022-06-30'
+    description: Reserched on reconfigurable architecutres for DNN acceleration.
 
 design:
   columns: '2'
