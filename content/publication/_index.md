@@ -1,5 +1,5 @@
 ---
-title: Hobbies
+title: Recent Publications
 cms_exclude: true
 
 # View.
