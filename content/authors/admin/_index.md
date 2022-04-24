@@ -73,7 +73,7 @@ email: ""
 highlight_name: true
 ---
 
-Hi, I am Yongkun (Rocky) Wu, an incoming PhD student of [HKUST Vision and System Design Lab (VSDL)](http://vsdl.ust.hk/index.html) led by [Prof. Tim CHENG](http://vsdl.ust.hk/index.html) at the Department of Electronic & Computer Engineering in HKUST, and a member of [AI Chip Center for Emerging Smart Systems (ACCESS)](https://inno-access.hk/). Previously, I obtained by Bachelor's Degree at the Department of Electronic Science and Engineering, Nanjing University, where I was advised by [Prof. Li DU](https://iscl.nju.edu.cn/main.psp) and Xiaoliang CHEN in [Intelligent Sensing and Communication Lab](https://iscl.nju.edu.cn/main.psp) affiliated to [Lab of Integrated Circuits and Intelligent Systems (ICAIS)](https://ese.nju.edu.cn/ICAIS/main.psp).
+Hi, I am Yongkun (Rocky) Wu, an incoming PhD student of [HKUST Vision and System Design Lab (VSDL)](http://vsdl.ust.hk/index.html) led by [Prof. Tim CHENG](http://vsdl.ust.hk/index.html) at the Department of Electronic & Computer Engineering in HKUST, and a member of [AI Chip Center for Emerging Smart Systems (ACCESS)](https://inno-access.hk/). Previously, I obtained my Bachelor's Degree at the Department of Electronic Science and Engineering, Nanjing University, where I was advised by [Prof. Li DU](https://iscl.nju.edu.cn/main.psp) and Xiaoliang CHEN in [Intelligent Sensing and Communication Lab](https://iscl.nju.edu.cn/main.psp) affiliated to [Lab of Integrated Circuits and Intelligent Systems (ICAIS)](https://ese.nju.edu.cn/ICAIS/main.psp).
 
 
 
