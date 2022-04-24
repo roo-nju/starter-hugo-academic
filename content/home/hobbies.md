@@ -1,7 +1,7 @@
 ---
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: publications
+widget: publication
 
 # This file represents a page section.
 headless: true
