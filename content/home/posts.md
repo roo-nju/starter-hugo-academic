@@ -3,8 +3,10 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
+active: false
+
 # This file represents a page section.
-headless: false
+headless: true
 
 
 # Order that this section appears on the page.
@@ -16,7 +18,8 @@ subtitle:
 content:
   # Filter on criteria
   filters:
-    folders:''
+    folders:
+      - post
     tag: ''
     category: ''
     publication_type: ''
