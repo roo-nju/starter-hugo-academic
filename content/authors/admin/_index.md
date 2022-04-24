@@ -40,21 +40,24 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-  label: Follow me on Twitter
+  label: Feel free to contact me
   display:
     header: true
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+#  label: Follow me on Twitter
+#  display:
+#    header: true
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link:
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/roo-nju
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/yongkun-wu-114863210/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -74,6 +77,6 @@ Hi, I am Yongkun (Rocky) Wu, an incoming PhD student of [HKUST Vision and System
 
 
 
-My research interests include hardware-software co-design for AI acceleration, efficient neural networks and domain specific architecture. I also enjoy tracking front-end technologies as well as exploring in-depth issues concerning humanites. Please feel free to contact me.
+My research interests include hardware-software co-design for AI acceleration, efficient neural networks and domain specific architecture. I also enjoy photographing, hiking as well as playing table tennis. Please feel free to contact me.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

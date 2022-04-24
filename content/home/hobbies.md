@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 90
 
 title: Recent Posts
 subtitle:
@@ -16,7 +16,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - post
+      - hobbies
     tag: ''
     category: ''
     publication_type: ''

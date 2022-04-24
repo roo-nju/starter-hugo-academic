@@ -28,7 +28,7 @@ content:
   email: 181180141@smail.nju.edu.cn
   # phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
+    street: Clear Water Bay, Kowloon
     city: Hong Kong
     # region: CA
     # postcode: '94305'
