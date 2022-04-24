@@ -23,19 +23,19 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+#url_pdf: ''
+#url_code: ''
+#url_dataset: ''
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: ''
+#url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: Rocky Wu'
   focal_point: ""
   preview_only: false
 
@@ -45,7 +45,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- shijiu-lake
+- example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -55,18 +55,10 @@ projects:
 slides: example
 ---
 
-## Crowd-funded open-source software
-
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+My friend and I rent a car and drove all the way to Shijiu Lake, which took us nearly one hour. We enjoyed the sunset as well as nice dishes in Gaochun District, Nanjing.
 
 
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+#{{% callout note %}}
+#Click the *Cite* button above to demo the feature to enable visitors to #import publication metadata into their reference management #software.
+#{{% /callout %}}
