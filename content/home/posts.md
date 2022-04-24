@@ -16,7 +16,7 @@ subtitle:
 content:
   # Filter on criteria
   filters:
-    folders:[]
+    folders:''
     tag: ''
     category: ''
     publication_type: ''
