@@ -9,14 +9,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Posts
+title: Hobbies
 subtitle:
 
 content:
   # Filter on criteria
   filters:
     folders:
-      - hobbies
+      - post
     tag: ''
     category: ''
     publication_type: ''
