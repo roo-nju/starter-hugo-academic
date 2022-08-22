@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: 181180141@smail.nju.edu.cn
+  email: rocky.wu@connect.ust.hk
   # phone: 888 888 88 88
   address:
     street: Clear Water Bay, Kowloon
