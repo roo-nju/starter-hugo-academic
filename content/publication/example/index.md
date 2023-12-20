@@ -1,6 +1,6 @@
 ---
 title: "Journal Papers"
-[1] CIM-DSE: Design Space Exploration for Analyzing and Bridging the Efficiency Gap between the Computing-in-Memory Macro and Accelerator (under review)
+
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
@@ -29,10 +29,10 @@ doi: ""
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
-abstract: Hoping for some good news
+abstract: [1] CIM-DSE: Design Space Exploration for Analyzing and Bridging the Efficiency Gap between the Computing-in-Memory Macro and Accelerator (under review)
 
 # Summary. An optional shortened abstract.
-summary: Hoping for some good news
+summary: [1] CIM-DSE: Design Space Exploration for Analyzing and Bridging the Efficiency Gap between the Computing-in-Memory Macro and Accelerator (under review)
 
 tags: []
 
