@@ -29,10 +29,10 @@ doi: ""
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
-abstract: [1] CIM-DSE: Design Space Exploration for Analyzing and Bridging the Efficiency Gap between the Computing-in-Memory Macro and Accelerator (under review)
+abstract: CIM-DSE: Design Space Exploration for Analyzing and Bridging the Efficiency Gap between the Computing-in-Memory Macro and Accelerator (under review)
 
 # Summary. An optional shortened abstract.
-summary: [1] CIM-DSE: Design Space Exploration for Analyzing and Bridging the Efficiency Gap between the Computing-in-Memory Macro and Accelerator (under review)
+summary: CIM-DSE: Design Space Exploration for Analyzing and Bridging the Efficiency Gap between the Computing-in-Memory Macro and Accelerator (under review)
 
 tags: []
 
