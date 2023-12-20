@@ -4,9 +4,9 @@ title: "Journal Papers"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-#authors:
-#- admin
-#- Robert Ford
+authors:
+- admin
+- Robert Ford
 
 ## Author notes (optional)
 #author_notes:
@@ -23,21 +23,22 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-#publication_types: ["1"]
+publication_types: ["1"]
 
 ## Publication name and optional abbreviated publication name.
-#publication: In *Wowchemy Conference*
+publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
 abstract: "CIM-DSE: Design Space Exploration for Analyzing and Bridging the Efficiency Gap between the Computing-in-Memory Macro and Accelerator (under review)"
 
 # Summary. An optional shortened abstract.
-summary: "CIM-DSE: Design Space Exploration for Analyzing and Bridging the Efficiency Gap between the Computing-in-Memory Macro and Accelerator (under review)"
+# summary: "CIM-DSE: Design Space Exploration for Analyzing and Bridging the Efficiency Gap between the Computing-in-Memory Macro and Accelerator (under review)"
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+#featured: true
+
 
 # Custom links (uncomment lines below)
 # links:
