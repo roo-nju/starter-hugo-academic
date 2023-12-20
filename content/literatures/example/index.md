@@ -1,7 +1,6 @@
 ---
-​---
 title: "Design Space Exploration (DSE) for CIM"
-type: landing
+#type: landing
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -59,5 +58,5 @@ featured: false
 
 
 ​---
----
+
 
