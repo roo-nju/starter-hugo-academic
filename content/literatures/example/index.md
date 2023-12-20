@@ -1,5 +1,6 @@
 ---
 title: "Design Space Exploration (DSE) for CIM"
+type: landing
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -32,11 +33,25 @@ doi: ""
 #abstract: "CIM-DSE: Design Space Exploration for Analyzing and Bridging the Efficiency Gap between the Computing-in-Memory Macro and Accelerator (under review)"
 
 # Summary. An optional shortened abstract.
-summary: "[ISPASS'20] An Architecture-Level Energy and Area Estimator for Processing-In-Memory Accelerator Designs
+#summary: "[ISPASS'20] An Architecture-Level Energy and Area Estimator for Processing-In-Memory Accelerator Designs
 [TCAD'23] MNSIM 2.0: A Behavior-Level Modeling Tool for Processing-In-Memory Architectures
 "
+sections:
+  - block: markdown
+    id: section-1
+    content:
+      title: Section 1
+      subtitle: A subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+  - block: markdown
+    id: section-2
+    content:
+      title: Section 2
+      subtitle: A subtitle
+      text: Add your Section 2 content here...
 
-tags: []
+
+#tags: []
 
 # Display this page in the Featured widget?
 featured: false
