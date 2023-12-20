@@ -1,5 +1,5 @@
 ---
-title: "Design Space Exploration (DSE) for Computing-in-Memory (CIM) Architectures"
+title: "Design Space Exploration (DSE) for CIM"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -79,10 +79,3 @@ featured: false
 #slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
