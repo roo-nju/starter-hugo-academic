@@ -36,7 +36,6 @@ doi: ""
 summary: "[ISPASS'20] An Architecture-Level Energy and Area Estimator for Processing-In-Memory Accelerator Designs
 [TCAD'23] MNSIM 2.0: A Behavior-Level Modeling Tool for Processing-In-Memory Architectures"
 
-      text: Add your Section 2 content here...
 
 #tags: []
 
