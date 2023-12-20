@@ -37,7 +37,7 @@ summary: "[TCAS-I'23] CIM-DSE: Design Space Exploration for Analyzing and Bridgi
 tags: []
 
 # Display this page in the Featured widget?
-#featured: true
+featured: false
 
 
 # Custom links (uncomment lines below)
@@ -77,10 +77,10 @@ tags: []
 #slides: example
 ---
 
-#{{% callout note %}}
-#Click the *Cite* button above to demo the feature to enable visitors to import publication #metadata into their reference management software.
-#{{% /callout %}}
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
 
-#{{% callout note %}}
-#Create your slides in Markdown - click the *Slides* button to check out the example.
-#{{% /callout %}}
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
