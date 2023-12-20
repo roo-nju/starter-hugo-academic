@@ -42,7 +42,11 @@ summary: "[ISPASS'20] An Architecture-Level Energy and Area Estimator for Proces
 # Display this page in the Featured widget?
 featured: false
 
-title: "Design Space Exploration (DSE) for CIM"
+
+---
+
+---
+title: "Design Space Exploration"
 type: landing
 
 # Authors
@@ -84,5 +88,6 @@ summary: "[ISPASS'20] An Architecture-Level Energy and Area Estimator for Proces
 
 # Display this page in the Featured widget?
 featured: false
----
 
+
+---
