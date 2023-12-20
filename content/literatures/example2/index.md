@@ -58,7 +58,7 @@ featured: false
 
 
 
-**[JSSC'23]** An Energy-Efficient Computing-in-Memory NN Processor With Set-Associate Blockwise Sparsity and Ping-Pong Weight Update
+**[JSSC'23]** An Energy-Efficient Computing-in-Memory NN Processor With Set-Associate Block-wise Sparsity and Ping-Pong Weight Update
 
 
 

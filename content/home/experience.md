@@ -29,7 +29,7 @@ experience:
     location: Clear Water Bay, Hong Kong
     date_start: '2022-09-01'
     date_end: ''
-    description: To be explored.
+    description: Currently focusing on design space exploration for CIM architecture designs.
 
 #             |2-
 #        Responsibilities include:
@@ -45,7 +45,7 @@ experience:
     location: Xianlin, Nanjing
     date_start: '2018-09-01'
     date_end: '2022-06-30'
-    description: Reserched on reconfigurable architecutres for DNN acceleration.
+    description: Researched on reconfigurable architecutres for DNN acceleration.
 
 design:
   columns: '2'
