@@ -49,7 +49,7 @@ featured: false
 
 
 
-**[JSSC'22]** DIANA: An End-to-End Hybrid DIgital and ANAlog Neural Network SoC for the Edge
+**[JSSC'22]** DIANA: An End-to-End Hybrid Digital and Analog Neural Network SoC for the Edge
 
 
 
