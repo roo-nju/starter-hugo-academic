@@ -1,5 +1,5 @@
 ---
-title: "Design Space Exploration for CIM"
+title: "Design Space Exploration and Modeling for CIM"
 
 
 # Authors
@@ -33,7 +33,7 @@ doi: ""
 #abstract: "CIM-DSE: Design Space Exploration for Analyzing and Bridging the Efficiency Gap between the Computing-in-Memory Macro and Accelerator (under review)"
 
 # Summary. An optional shortened abstract.
-summary: "Design space exploration has been widely adopted to investigating von-Neumman architectures. However, only a few works have attempted to explore the emerging CIM architectures."
+summary: "Design space exploration has been widely adopted to investigating von-Neumman architectures. However, only a few works have attempted to model and explore the emerging CIM architectures."
 
 
 #tags: []
