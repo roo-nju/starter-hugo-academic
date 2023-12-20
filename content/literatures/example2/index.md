@@ -1,5 +1,5 @@
 ---
-title: "Design Space Exploration for CIM"
+title: "CIM-Based Accelerator"
 type: landing
 
 # Authors
@@ -33,7 +33,7 @@ doi: ""
 #abstract: "CIM-DSE: Design Space Exploration for Analyzing and Bridging the Efficiency Gap between the Computing-in-Memory Macro and Accelerator (under review)"
 
 # Summary. An optional shortened abstract.
-summary: "Design space has been widely adopted to investigating von-Neumman architectures. However, only a few works have attempted to explore the emerging CIM architectures."
+summary: "While most works focused on CIM designs at the circuit level, there are some interesting works that discussed about CIM from an architecture or system perspective."
 
 
 #tags: []
@@ -44,22 +44,30 @@ featured: false
 
 ---
 
-### 2020
-[ISPASS'20] An Architecture-Level Energy and Area Estimator for Processing-In-Memory Accelerator Designs
-
-### 2021
-[TC'20'21] Device-Circuit-Architecture Co-Exploration for Computing-in-Memory Neural Accelerators
-
 ### 2022
-[ICCAD'22] Design Space and Memory Technology Co-Exploration for In-Memory Computing Based Machine Learning Accelerators
+**[JSSC'22]** Scalable and Programmable Neural Network Inference Accelerator Based on In-Memory Computing
+
+
+
+**[JSSC'22]** DIANA: An End-to-End Hybrid DIgital and ANAlog Neural Network SoC for the Edge
+
+
 
 ### 2023
-[DAC'23] XPert: Peripheral Circuit & Neural Architecture Co-search for Area and Energy-efficient Xbar-based Computing
+**[VLSI'23]** A General-Purpose Compute-in-Memory Processor Combining CPU and Deep Learning with Elevated CPU Efficiency and Enhanced Data Locality
 
-[arxiv'23] NicePIM: Design Space Exploration for Processing-In-Memory DNN Accelerators with 3D-Stacked-DRAM
 
-[ICCAD'23] Benchmarking and modeling of analog and digital SRAM in-memory computing architectures
 
-[TCAD'23] MNSIM 2.0: A Behavior-Level Modeling Tool for Processing-In-Memory Architectures
+**[JSSC'23]** An Energy-Efficient Computing-in-Memory NN Processor With Set-Associate Blockwise Sparsity and Ping-Pong Weight Update
 
-[TCAD'23] Efficient Processing of MLPerf Mobile Workloads Using Digital Compute-In-Memory Macros
+
+
+**[ISSCC'23]** 16.7 A 40-310TOPS/W SRAM-Based All-Digital Up to 4b In-Memory Computing Multi-Tiled NN Accelerator in FD-SOI 18nm for Deep-Learning Edge Applications
+
+
+
+**[ISSCC'23]** 16.4 TensorCIM: A 28nm 3.7nJ/Gather and 8.3TFLOPS/W FP32 Digital-CIM Tensor Processor for MCM-CIM-Based Beyond-NN Acceleration
+
+
+
+**[ISSCC'23]** 16.1 MuITCIM: A 28nm 2.24$\mu$J/Token Attention-Token-Bit Hybrid Sparse Digital CIM-Based Accelerator for Multimodal Transformers
