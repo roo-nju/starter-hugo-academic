@@ -20,7 +20,7 @@ organizations:
 interests:
 - Hardware-Software Co-design
 - Computing-in-Memory (CIM) Architecture
-- Design Space Exploration
+- AI Chip System Design
 
 # Education to show in About widget
 education:
@@ -77,6 +77,6 @@ Hi, I am Yongkun (Rocky) WU, a PhD student of [HKUST Vision and System Design La
 
 
 
-My research interests include hardware-software co-design for deep neural network, computing-in-memory architecture, and design space exploration. I also enjoy photographing, hiking as well as playing table tennis. Please feel free to contact me.
+My research interests include hardware-software co-design for deep neural network, computing-in-memory architecture, and AI chip system design. I also enjoy photographing, hiking as well as playing table tennis. Please feel free to contact me.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
