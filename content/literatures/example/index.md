@@ -49,7 +49,6 @@ sections:
       subtitle: A subtitle
       text: Add your Section 2 content here...
 
-
 #tags: []
 
 # Display this page in the Featured widget?
@@ -58,4 +57,3 @@ featured: false
 
 ---
 
-sdfsdfa
