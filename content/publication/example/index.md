@@ -26,7 +26,7 @@ doi: ""
 publication_types: ["2"]
 
 ## Publication name and optional abbreviated publication name.
-publication: In *"IEEE Transactions on Circuits and Systems I: Regular Papers"*
+#publication: In *IEEE Transactions on Circuits and Systems I: Regular Papers*
 #publication_short: In *ICW*
 
 #abstract: "CIM-DSE: Design Space Exploration for Analyzing and Bridging the Efficiency Gap between the Computing-in-Memory Macro and Accelerator (under review)"
