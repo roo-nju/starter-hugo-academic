@@ -33,9 +33,8 @@ doi: ""
 #abstract: "CIM-DSE: Design Space Exploration for Analyzing and Bridging the Efficiency Gap between the Computing-in-Memory Macro and Accelerator (under review)"
 
 # Summary. An optional shortened abstract.
-#summary: "[ISPASS'20] An Architecture-Level Energy and Area Estimator for Processing-In-Memory Accelerator Designs
-[TCAD'23] MNSIM 2.0: A Behavior-Level Modeling Tool for Processing-In-Memory Architectures
-"
+#summary: "[ISPASS'20] An Architecture-Level Energy and Area Estimator for Processing-In-Memory Accelerator Designs [TCAD'23] MNSIM 2.0: A Behavior-Level Modeling Tool for Processing-In-Memory Architectures"
+
 sections:
   - block: markdown
     id: section-1
