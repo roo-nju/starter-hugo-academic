@@ -73,10 +73,10 @@ email: ""
 highlight_name: true
 ---
 
-Hi, I am Yongkun (Rocky) WU, a PhD student of [HKUST Vision and System Design Lab (VSDL)](http://vsdl.ust.hk/index.html) led by [Prof. Tim CHENG](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng) at the Department of Electronic & Computer Engineering in The Hong Kong University of Science and Technology (HKUST), and a student researcher of the [AI Chip Center for Emerging Smart Systems (ACCESS)](https://inno-access.hk/). Previously, I obtained my Bachelor's Degree from the School of Electronic Science and Engineering, Nanjing University, where I was advised by [Prof. Li DU](https://iscl.nju.edu.cn/main.psp) and Xiaoliang CHEN in [Intelligent Sensing and Communication Lab](https://iscl.nju.edu.cn/main.psp).
+Hi, I am Yongkun (Rocky) WU, a PhD student of [HKUST Vision and System Design Lab (VSDL)](http://vsdl.ust.hk/index.html) led by [Prof. Tim CHENG](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng) at the Department of Electronic & Computer Engineering in The Hong Kong University of Science and Technology (HKUST) and a student researcher of the [AI Chip Center for Emerging Smart Systems (ACCESS)](https://inno-access.hk/).  I am also fortunate to be mentored by [Prof. Fengbin TU](https://fengbintu.github.io/) and [Prof. CY Tsui](https://seng.hkust.edu.hk/about/people/faculty/chi-ying-tsui). Previously, I obtained my Bachelor's Degree from the School of Electronic Science and Engineering, Nanjing University, where I was advised by [Prof. Li DU](https://iscl.nju.edu.cn/main.psp) and Xiaoliang CHEN in [Intelligent Sensing and Communication Lab](https://iscl.nju.edu.cn/main.psp).
 
 
 
-My research interests include hardware-software co-design for AI acceleration, efficient neural networks and domain specific architecture. I also enjoy photographing, hiking as well as playing table tennis. Please feel free to contact me.
+My research interests include hardware-software co-design for deep neural network accelerator design, computing-in-memory architecture, and design space exploration. I also enjoy photographing, hiking as well as playing table tennis. Please feel free to contact me.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
