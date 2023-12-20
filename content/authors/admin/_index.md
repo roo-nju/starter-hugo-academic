@@ -19,8 +19,8 @@ organizations:
 # Interests to show in About widget
 interests:
 - Hardware-Software Co-design
-- Efficient neural networks
-- Domain Specific Architecture
+- Computing-in-Memory Architecture
+- Design Space Exploration
 
 # Education to show in About widget
 education:
@@ -77,6 +77,6 @@ Hi, I am Yongkun (Rocky) WU, a PhD student of [HKUST Vision and System Design La
 
 
 
-My research interests include hardware-software co-design for deep neural network accelerator design, computing-in-memory architecture, and design space exploration. I also enjoy photographing, hiking as well as playing table tennis. Please feel free to contact me.
+My research interests include hardware-software co-design for deep neural network, computing-in-memory architecture, and design space exploration. I also enjoy photographing, hiking as well as playing table tennis. Please feel free to contact me.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
