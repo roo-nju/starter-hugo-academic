@@ -19,14 +19,14 @@ organizations:
 # Interests to show in About widget
 interests:
 - Hardware-Software Co-design
-- Computing-in-Memory Architecture
+- Computing-in-Memory (CIM) Architecture
 - Design Space Exploration
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Electronic and Computer Engineering
-    institution: HKUST
+    institution: The Hong Kong University of Science and Technology (HKUST)
     year: 2022 - present
   - course: BSc in Electronic Science and Engineering
     institution: Nanjing University
