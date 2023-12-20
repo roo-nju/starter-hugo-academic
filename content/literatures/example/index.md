@@ -1,6 +1,6 @@
 ---
 title: "Design Space Exploration for CIM"
-type: landing
+
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -44,22 +44,23 @@ featured: false
 
 ---
 
+
 ### 2020
-[ISPASS'20] An Architecture-Level Energy and Area Estimator for Processing-In-Memory Accelerator Designs
+**[ISPASS'20]** An Architecture-Level Energy and Area Estimator for Processing-In-Memory Accelerator Designs
 
 ### 2021
-[TC'20'21] Device-Circuit-Architecture Co-Exploration for Computing-in-Memory Neural Accelerators
+**[TC'21]** Device-Circuit-Architecture Co-Exploration for Computing-in-Memory Neural Accelerators
 
 ### 2022
-[ICCAD'22] Design Space and Memory Technology Co-Exploration for In-Memory Computing Based Machine Learning Accelerators
+**[ICCAD'22]** Design Space and Memory Technology Co-Exploration for In-Memory Computing Based Machine Learning Accelerators
 
 ### 2023
-[DAC'23] XPert: Peripheral Circuit & Neural Architecture Co-search for Area and Energy-efficient Xbar-based Computing
+**[DAC'23]** XPert: Peripheral Circuit & Neural Architecture Co-search for Area and Energy-efficient Xbar-based Computing
 
-[arxiv'23] NicePIM: Design Space Exploration for Processing-In-Memory DNN Accelerators with 3D-Stacked-DRAM
+**[arxiv'23]** NicePIM: Design Space Exploration for Processing-In-Memory DNN Accelerators with 3D-Stacked-DRAM
 
-[ICCAD'23] Benchmarking and modeling of analog and digital SRAM in-memory computing architectures
+**[ICCAD'23]** Benchmarking and modeling of analog and digital SRAM in-memory computing architectures
 
-[TCAD'23] MNSIM 2.0: A Behavior-Level Modeling Tool for Processing-In-Memory Architectures
+**[TCAD'23]** MNSIM 2.0: A Behavior-Level Modeling Tool for Processing-In-Memory Architectures
 
-[TCAD'23] Efficient Processing of MLPerf Mobile Workloads Using Digital Compute-In-Memory Macros
+**[TCAD'23]** Efficient Processing of MLPerf Mobile Workloads Using Digital Compute-In-Memory Macros
