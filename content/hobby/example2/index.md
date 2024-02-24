@@ -2,7 +2,7 @@
 title: "Sunset Peak"
 
 
-abstract: Located in the east of Hong Kong.
+abstract: Located in the west of Hong Kong.
 
 # Summary. An optional shortened abstract.
 summary: Located in the east of Hong Kong.

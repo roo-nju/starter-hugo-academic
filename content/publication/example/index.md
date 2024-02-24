@@ -29,10 +29,10 @@ publication_types: ["2"]
 #publication: In *IEEE Transactions on Circuits and Systems I: Regular Papers*
 #publication_short: In *ICW*
 
-#abstract: "CIM-DSE: Design Space Exploration for Analyzing and Bridging the Efficiency Gap between the Computing-in-Memory Macro and Accelerator (under review)"
+#abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "[TCAS-I'23] CIM-DSE: Design Space Exploration for Analyzing and Bridging the Efficiency Gap between the Computing-in-Memory Macro and Accelerator (under review)"
+summary: ""
 
 tags: []
 
